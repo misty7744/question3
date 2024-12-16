@@ -9,3 +9,5 @@ npm install
 ```
 node app.js
 ```
+### config
+MongoDB,nodejs,npm
