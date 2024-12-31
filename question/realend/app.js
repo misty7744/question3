@@ -15,16 +15,6 @@ render(app, {
     debug: process.env.NODE_ENV !== 'production'  
 });
 
-
-
-
-
-
-
-
-
-
-
 let index= require('./routes/index')
 let question_admin = require('./routes/admin/question/question_admin')
 let catagory_admin = require('./routes/admin/question/catagory_admin')
